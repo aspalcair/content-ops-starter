@@ -235,7 +235,6 @@ sections:
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
-        url: /images/Desain tanpa judul (11).jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
