@@ -241,7 +241,6 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/Desain tanpa judul (40).jpg
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
