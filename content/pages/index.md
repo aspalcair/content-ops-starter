@@ -171,7 +171,7 @@ sections:
     media:
       type: VideoBlock
       title: 'Waterproofing '
-      url: 'https://www.youtube.com/watch?v=Q4L0yYnoNtk&t=157s'
+      url: 'https://www.youtube.com/watch?v=xmf1BY1XBO4&t=6s'
       autoplay: true
       loop: true
       muted: true
