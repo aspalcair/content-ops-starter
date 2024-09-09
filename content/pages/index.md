@@ -276,7 +276,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
-        subtitle: $117
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/Desain tanpa judul (24).jpg
