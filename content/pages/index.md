@@ -262,7 +262,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: Waterproofing Dak Cor
         subtitle: ''
         image:
           type: ImageBlock
