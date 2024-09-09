@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: Sam Waterproofing
         altText: ''
-        url: /
+        url: 'https://samwaterproofing.com/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
