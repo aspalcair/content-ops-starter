@@ -275,7 +275,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Waterproofing Atap
         subtitle: ''
         image:
           type: ImageBlock
