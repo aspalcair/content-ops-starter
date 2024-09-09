@@ -310,11 +310,7 @@ sections:
         self:
           textAlign: left
     subtitle: Berikut Ini Mengapa Anda Harus Memilih Kami
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Saat Ketika Anda mempertimbangkan waterproofing untuk bangunan Anda, penting untuk memilih\_jasa waterproofing profesional\_yang memiliki pengalaman dan keahlian dalam melakukan pekerjaan ini. Berikut adalah beberapa alasan mengapa memilih jasa waterproofing profesional adalah pilihan yang cerdas\n\n**Berpengalaman**\n\nJasa Waterproofing Dinding Tembok, Anda Tidak Perlu Khawatir karna Perusahaan Kmi Sudah Berpengalaman Lebih Dari 10 Tahun Dan Sudah 1000++ sudah Kmi Kerjakan Dengan Sebagai Kontraktor Waterproofing Yang Berkualitas\n\n​**Berkualitas**\n\nJaminan Kualitas: Banyak penyedia\_jasa waterproofing profesional\_menawarkan jaminan kualitas untuk pekerjaan yang mereka lakukan. Ini memberikan Anda kepercayaan bahwa waterproofing telah diterapkan dengan benar dan akan memberikan perlindungan yang efektif terhadap air.\n\n**Terpercaya**\n\nJasa Waterproofing Menggarisbawahi Bahwa pentingnya investasi dalam jasa waterproofing profesional untuk melindungi dinding, dak beton, dan kolam renang dari kerusakan akibat air, serta meningkatkan nilai properti Anda dalam jangka panjang.\n\n\n\n"
     actions: []
     media:
       type: VideoBlock
