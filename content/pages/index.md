@@ -213,7 +213,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: 'Mengerjakan Waterproofing Dinding, Dak, Atap, Kubah dll'
     items: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
