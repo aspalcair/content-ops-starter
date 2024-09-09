@@ -65,7 +65,7 @@ sections:
       tinggi yang dirancang untuk memastikan bangunan Anda tetap kering dan aman
       Dengan Waterproofing Menggunakan Aspal Cair.
     media:
-      title: Title of the video
+      title: Jasa Waterproofing Dinding
       url: 'https://www.youtube.com/watch?v=Wb3J0s0STPQ&t=19s'
       controls: false
       aspectRatio: '16:9'
