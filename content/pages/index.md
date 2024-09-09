@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Berpengalaman & Bergaransi
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Sam Waterproofing Kontraktor Jasa Waterproofing Aspal Cair Terbaik Saat
+      Ini, Ahlinya Mengerjakan Waterproofing Pada Dak Cor Beton, Dinding Tembok
+      Luar, Atap Genteng, Rooftop Gedung, Kubah Masjid dll
     actions:
       - label: Get started
         altText: ''
