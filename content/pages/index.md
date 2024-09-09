@@ -111,7 +111,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Waterproofing Pada Dak Beton
       color: text-dark
       styles:
         self:
