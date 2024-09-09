@@ -170,7 +170,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: 'Waterproofing '
       url: 'https://www.youtube.com/watch?v=Q4L0yYnoNtk&t=157s'
       autoplay: true
       loop: true
