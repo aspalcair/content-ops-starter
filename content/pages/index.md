@@ -232,7 +232,6 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/Desain tanpa judul (11).jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
