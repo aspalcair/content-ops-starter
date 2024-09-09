@@ -238,7 +238,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Waterproofing Dinding
         subtitle: ''
         image:
           type: ImageBlock
