@@ -217,7 +217,7 @@ sections:
     items:
       - title: ''
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: ''
         image:
           url: /images/abstract-feature1.svg
