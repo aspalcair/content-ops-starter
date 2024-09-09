@@ -304,7 +304,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Mengapa Harus Sam Waterprofing
       color: text-dark
       styles:
         self:
