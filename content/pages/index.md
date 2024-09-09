@@ -13,7 +13,7 @@ sections:
       Ini, Ahlinya Mengerjakan Waterproofing Pada Dak Cor Beton, Dinding Tembok
       Luar, Atap Genteng, Rooftop Gedung, Kubah Masjid dll
     actions:
-      - label: Get started
+      - label: Informasi Lengkap
         altText: ''
         url: /
         showIcon: false
