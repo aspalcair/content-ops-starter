@@ -118,11 +118,12 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Video Aplikasi Aspal Cair Pada Dak
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Bocor pada atap atau dak bangunan bisa menimbulkan beberapa bahaya,
+      terutama jika tidak ditangani dengan cepat. Berikut beberapa risiko yang
+      mungkin timbul Seperti, Kerusakan Struktur, Jamur dan Kelembabab,
+      Kerusakan Interior dll. Untuk Itu Jangan Ditunda Jika Dak Anda Bocor dan
+      Rembes Segera Hubungi Kontak Kami Secepatnya.
     actions: []
     media:
       title: Waterproofing Dak Cor Beton
