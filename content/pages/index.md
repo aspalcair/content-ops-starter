@@ -66,7 +66,7 @@ sections:
       Dengan Waterproofing Menggunakan Aspal Cair.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://www.youtube.com/watch?v=Wb3J0s0STPQ&t=19s'
       controls: false
       aspectRatio: '16:9'
       styles:
