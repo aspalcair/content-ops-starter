@@ -59,11 +59,11 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Jasa Waterproofing Berpengalaman
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Sam Waterproofing adalah mitra terpercaya yang siap membantu Anda. Sebagai
+      pemimpin dalam industri waterproofing, kami menyediakan solusi berkualitas
+      tinggi yang dirancang untuk memastikan bangunan Anda tetap kering dan aman
+      Dengan Waterproofing Menggunakan Aspal Cair.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
