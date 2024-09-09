@@ -170,7 +170,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: 'Waterproofing '
+      title: Waterproofing Kubah Masjid
       url: 'https://www.youtube.com/watch?v=xmf1BY1XBO4&t=6s'
       autoplay: true
       loop: true
