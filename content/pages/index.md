@@ -162,11 +162,12 @@ sections:
         self:
           textAlign: left
     subtitle: Jasa Aplikator Waterproofing Kubah
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Kebocoran pada kubah masjid bisa menjadi masalah serius yang memerlukan
+      perhatian segera. cari tahu dari mana air masuk. Ini bisa melalui retakan,
+      sambungan yang tidak rapat, atau material yang sudah rusak. Inspeksi
+      secara menyeluruh dilakukan dari luar dan dalam kubah untuk menemukan
+      titik-titik masalah.
     actions: []
     media:
       type: VideoBlock
