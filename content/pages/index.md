@@ -156,7 +156,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Waterproofing Kubah Masjid
       color: text-dark
       styles:
         self:
